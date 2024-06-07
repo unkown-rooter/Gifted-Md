@@ -1,6 +1,6 @@
 {
-  "name":"gifted-md@4.0.0",
-  "description":"A MultiDevice WhatsApp Bot Created by Gifted Tech",
+  "name":"unknown-rooter-md@4.0.0",
+  "description":"A MultiDevice WhatsApp Bot Created by unknown-rooter Tech",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
   "repository":"https://github.com/mouricedevs/Gifted-Md",
@@ -42,7 +42,7 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"GIFTED-MD",
+      "value":"UNKNOWN-ROOTER-MD",
       "required":false
 
     } ,
@@ -81,20 +81,20 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "Gifted Tech"
+    "value": "unknown-rooter Tech"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254728782591,254762016957"
+    "value": "254743445041,254743445041"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "2"
   },
     "CHAT_BOT":
     {
